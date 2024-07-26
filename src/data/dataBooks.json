@@ -1,0 +1,143 @@
+[
+    {
+      "title": "Plastic: A Novel",
+      "author": "Scott Guild",
+      "date": "February 2024",
+      "price": 420,
+      "tags": ["Climate change", "Sci-Fi"]
+    },
+    {
+      "title": "The Ocean's Whisper",
+      "author": "Emily Turner",
+      "date": "January 2023",
+      "price": 350,
+      "tags": ["Romance", "Adventure"]
+    },
+    {
+      "title": "Lost in the Desert",
+      "author": "Michael Brown",
+      "date": "March 2022",
+      "price": 380,
+      "tags": ["Thriller", "Survival"]
+    },
+    {
+      "title": "The Quantum Realm",
+      "author": "Laura Smith",
+      "date": "April 2021",
+      "price": 450,
+      "tags": ["Sci-Fi", "Physics"]
+    },
+    {
+      "title": "Secrets of the Past",
+      "author": "David Johnson",
+      "date": "May 2020",
+      "price": 400,
+      "tags": ["Mystery", "History"]
+    },
+    {
+      "title": "Into the Wild",
+      "author": "Sarah Lee",
+      "date": "June 2019",
+      "price": 390,
+      "tags": ["Adventure", "Nature"]
+    },
+    {
+      "title": "Beyond the Horizon",
+      "author": "Chris Martin",
+      "date": "July 2018",
+      "price": 420,
+      "tags": ["Fantasy", "Epic"]
+    },
+    {
+      "title": "The Last Frontier",
+      "author": "Alex White",
+      "date": "August 2017",
+      "price": 370,
+      "tags": ["Sci-Fi", "Space"]
+    },
+    {
+      "title": "Echoes of Silence",
+      "author": "Nina Garcia",
+      "date": "September 2016",
+      "price": 360,
+      "tags": ["Drama", "Psychological"]
+    },
+    {
+      "title": "The Hidden Truth",
+      "author": "Oliver Green",
+      "date": "October 2015",
+      "price": 410,
+      "tags": ["Mystery", "Thriller"]
+    },
+    {
+      "title": "Whispers in the Wind",
+      "author": "Laura Clark",
+      "date": "November 2014",
+      "price": 380,
+      "tags": ["Romance", "Fantasy"]
+    },
+    {
+      "title": "Journey to the Unknown",
+      "author": "Peter Evans",
+      "date": "December 2013",
+      "price": 430,
+      "tags": ["Adventure", "Sci-Fi"]
+    },
+    {
+      "title": "The Silent Watcher",
+      "author": "Sophia Baker",
+      "date": "January 2012",
+      "price": 400,
+      "tags": ["Thriller", "Crime"]
+    },
+    {
+      "title": "Fragments of Memory",
+      "author": "James Wilson",
+      "date": "February 2011",
+      "price": 390,
+      "tags": ["Drama", "History"]
+    },
+    {
+      "title": "The Enchanted Forest",
+      "author": "Rachel Davis",
+      "date": "March 2010",
+      "price": 370,
+      "tags": ["Fantasy", "Adventure"]
+    },
+    {
+      "title": "Under the Stars",
+      "author": "Robert Miller",
+      "date": "April 2009",
+      "price": 420,
+      "tags": ["Romance", "Drama"]
+    },
+    {
+      "title": "The Forgotten Kingdom",
+      "author": "Angela Adams",
+      "date": "May 2008",
+      "price": 410,
+      "tags": ["Fantasy", "History"]
+    },
+    {
+      "title": "Voices from the Past",
+      "author": "Daniel Clark",
+      "date": "June 2007",
+      "price": 390,
+      "tags": ["Mystery", "Drama"]
+    },
+    {
+      "title": "The Lost City",
+      "author": "Victoria Scott",
+      "date": "July 2006",
+      "price": 380,
+      "tags": ["Adventure", "Sci-Fi"]
+    },
+    {
+      "title": "Tales of the Future",
+      "author": "Samuel Lee",
+      "date": "August 2005",
+      "price": 400,
+      "tags": ["Sci-Fi", "Fantasy"]
+    }
+  ]
+  
